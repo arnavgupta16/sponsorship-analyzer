@@ -1,0 +1,11 @@
+
+
+streamlit
+groq
+langchain-groq
+PyPDF2
+chromadb
+sentence-transformers
+langchain
+typing
+shutil-which
